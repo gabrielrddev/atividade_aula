@@ -5,6 +5,9 @@
 }
 
 #testeimg {
+
+     
+    border-radius: 4px;
     display: flex;
     float: right;
     margin-right: 220px;
@@ -20,20 +23,7 @@ span {
 }
 
 
-#h1home {
-    margin-top: 100px;
-    margin-bottom: 50px;
-    font-size: 50px;
-    width: 700px;
-    height: 132px;
-    top: 197px;
-    left: 119px;
-    gap: 0px;
-    opacity: 0px;
-    font-family: "Mulish", sans-serif;
-    margin-left: 200px ;
-    text-shadow: 0px 2px 5px rgba(140, 137, 137, 0.5);
-}
+
 
 p {
     color: #7D7987;

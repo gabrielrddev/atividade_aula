@@ -5,7 +5,7 @@ export function Header() {
     return (
     <>
 <nav>
-    <div class='logo'>Treine.me</div>
+    <div class='logo'>AG Motos</div>
     <ul class='navbar'> 
         <li><a href="#" class='navHome'>Home</a></li>
         <li><a href="#" class='navSobre'>Sobre</a></li>
