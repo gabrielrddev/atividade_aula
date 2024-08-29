@@ -1,0 +1,26 @@
+.logo {
+    font-weight: 800;
+    font-size: 25px;
+    color: aquamarine;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    padding-left: 20px;
+}
+
+nav li a {
+    color: black;
+    text-decoration: none;
+}
